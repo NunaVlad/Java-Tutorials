@@ -8,5 +8,10 @@ public class Main {
         helloWorld.ExerciseOne();
         helloWorld.ExerciseTwo();
         helloWorld.ExerciseThree();
+
+
+        UserInput userInput = new UserInput();
+        userInput.ExerciseOne();
+        userInput.ExerciseTwo();
     }
 }
