@@ -20,6 +20,14 @@ public class Main {
         ifThenStatements.ExerciseTwo();
         ifThenStatements.ExerciseThree();
         ifThenStatements.ExerciseFour();
+
+        Loops loops = new Loops();
+        loops.ExerciseOne();
+        loops.ExerciseTwo();
+        loops.ExerciseThree();
+        loops.ExerciseFour();
+        loops.ExerciseFive();
+        loops.ExerciseSix();
         */
     }
 }
