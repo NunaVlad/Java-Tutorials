@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        HelloWorld helloWorld = new HelloWorld();
+        /*HelloWorld helloWorld = new HelloWorld();
         helloWorld.ExerciseOne();
         helloWorld.ExerciseTwo();
         helloWorld.ExerciseThree();
@@ -13,5 +13,13 @@ public class Main {
         UserInput userInput = new UserInput();
         userInput.ExerciseOne();
         userInput.ExerciseTwo();
+
+
+        IfThenStatements ifThenStatements = new IfThenStatements();
+        ifThenStatements.ExerciseOne();
+        ifThenStatements.ExerciseTwo();
+        ifThenStatements.ExerciseThree();
+        ifThenStatements.ExerciseFour();
+        */
     }
 }
