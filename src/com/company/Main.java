@@ -28,6 +28,12 @@ public class Main {
         loops.ExerciseFour();
         loops.ExerciseFive();
         loops.ExerciseSix();
+
+        Arrays arrays = new Arrays();
+        arrays.ExerciseOne();
+        arrays.ExerciseTwo();
+        arrays.ExerciseThree();
+        arrays.ExerciseFour();
         */
     }
 }
